@@ -5,8 +5,8 @@ Objective is to provide our GIG teams with:
 * templates to complete job descriptions (Wiki)
 * provide overview of outstanding positions (Issues)
 
-Please follow this easy and short process as following:
+Please follow this easy and short process:
 
 * Make request for job position using the Telegram channels to inform stakeholders
-* Create and new Issue in this repo and document the position using the job description template
-* Track the recruitment activity progress - in future we could even use Waffle
+* Create and new Issue in this repo and document the position using the template(s)
+* Track the recruitment activity progress - soon we will bring a Waffle overview life.
