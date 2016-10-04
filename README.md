@@ -1,8 +1,11 @@
-# Welcome to the Green IT Globe Recruitment Repo. 
+# Welcome to the Green IT Globe Recruitment Repo
 
-Objective is to provide our teams with job description templates and a process for recruitment.
+Objective is to provide our GIG teams with: 
+* recruitment process to fill new positions
+* templates to complete job descriptions (Wiki)
+* provide overview of outstanding positions (Issues)
 
-Process is as following:
+Please follow this easy and short process as following:
 
 * Make request for job position using the Telegram channels to inform stakeholders
 * Create and new Issue in this repo and document the position using the job description template
