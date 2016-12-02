@@ -50,5 +50,5 @@
   telnet (very oldj cruft) has no encryption, so passwords and session go cleartext over the wire
   * Explain the three load averages and what do they indicate. What command can be used to view the load averages?  
   1m, 5m, 15m . load indicates here mostly the number of processes that are in TIME_WAIT
-  * Can you name a lower-case letter that is not a valid option for GNU ls?
+  * Can you name a lower-case letter that is not a valid option for GNU ls?  
   `ls --help , choose one that is not in there (like 'e')`
