@@ -33,19 +33,20 @@
   Simple Message Tranfer Protocol (aka mail ;-)  
   1. What is an SMTP relay?  
   transfers messages (mail on behalf of a client to other mail servers)  
+  
   1. Give the basic scenario of how a mail message is delivered via SMTP  
   client -> relay (connect)
-    ```
-	HELO me.myserver.net
-	Mail From: me@myserver.net
-	Rcpt To: recrutement@greenitglobe.com
-	DATA
-	Subject: sdfdlfks;dflk
-	fjlsdkfjsdlkfj
-	QUIT
-	```
-  relay does basically the same to the MX host of greenitglobe.com
-  this mx host handles the mail for access by a client (pop3,imap)
+
+	HELO me.myserver.net  
+	Mail From: me@myserver.net  
+	Rcpt To: recrutement@greenitglobe.com  
+	DATA  
+	Subject: sdfdlfks;dflk  
+	fjlsdkfjsdlkfj  
+	QUIT  
+
+  relay does basically the same to the MX host of greenitglobe.com  
+  this mx host handles the mail for access by a client (pop3,imap)  
   1. What function does DNS play on a network?  
   translate for the computer a name.mydomain.net to an IP address
   1. What is an A record?  
