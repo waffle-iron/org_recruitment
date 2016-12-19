@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/gig-projects/org_recruitment.png?label=ready&title=Ready)](https://waffle.io/gig-projects/org_recruitment)
 # Welcome to the Green IT Globe Recruitment Repo
 
 Objective is to provide our GIG teams with: 
